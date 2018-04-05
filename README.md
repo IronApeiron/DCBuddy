@@ -13,13 +13,13 @@ A toolkit for Drift City (http://driftcity.gamescampus.com).
 
 # Development Screenshots
 ### Login Dialog
-![Image 0](https://www.dropbox.com/s/0ce16y6604hok0l/image0.PNG)
+![Image 0](https://www.dropbox.com/s/0ce16y6604hok0l/image0.PNG?dl=0)
 
 ### Docking Parts Calculator
-![Image 2](https://www.dropbox.com/s/o3dv5qer7d5qsvy/image2.PNG)
+![Image 2](https://www.dropbox.com/s/o3dv5qer7d5qsvy/image2.PNG?dl=0)
 
 ### News Feed
-![Image 3](https://www.dropbox.com/s/e25eevxhtan09y0/d1_c.PNG)
+![Image 3](https://www.dropbox.com/s/e25eevxhtan09y0/d1_c.PNG?dl=0)
 
 
 #### Please note that the online capabilities are no longer functional, since I made the decision to end all services with the announcement of Drift City's closure :(
