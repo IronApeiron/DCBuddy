@@ -1,0 +1,33 @@
+﻿<Controls:MetroWindow x:Class="DCPal.LoginForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:local="clr-namespace:DCPal"       
+        mc:Ignorable="d"
+        TitleForeground="White"
+        EnableDWMDropShadow="True"              
+        Title="Login to DCPal" Icon="Resources/dcpal_icon.ico" TitleCaps="False" ResizeMode="NoResize" Height="478.431" Width="300.49" Background="#FF343232">
+    <Grid >
+        <Label x:Name="label" Content="DCPal" HorizontalAlignment="Left" Margin="95,10,0,0" VerticalAlignment="Top" FontSize="32" Width="90" Background="#FFC33D3D" Foreground="White"/>
+        <Label x:Name="label1" Content="Username:" HorizontalAlignment="Left" Height="26" Margin="10,167,0,0" VerticalAlignment="Top" Width="67" Foreground="White"/>
+        <Label x:Name="label2" Content="Sign in to QuickCode Forge" HorizontalAlignment="Left" Height="28" Margin="10,134,0,0" VerticalAlignment="Top" Width="157" Foreground="White"/>
+        <Label x:Name="label3" Content="Password:" HorizontalAlignment="Left" Height="26" Margin="10,208,0,0" VerticalAlignment="Top" Width="67" Foreground="White"/>
+        <TextBox x:Name="txtUserName" HorizontalAlignment="Left" Height="23" Margin="77,168,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="188" Background="#FF494444" BorderBrush="#FF131111" Foreground="White" MaxLines="1"/>
+        <PasswordBox x:Name="txtPassword" HorizontalAlignment="Left" Margin="77,208,0,0" VerticalAlignment="Top" Width="188" Background="#FF403C3C" BorderBrush="#FF131313" Foreground="White"/>
+        <Button x:Name="btnSignIn" IsDefault="True" Content="Sign In" HorizontalAlignment="Left" Margin="110,290,0,0" VerticalAlignment="Top" Width="75" Click="btnSignIn_Click" Background="#FF464040" Foreground="White"/>
+        <Label x:Name="label2_Copy" Content="Login" HorizontalAlignment="Left" Height="45" Margin="110,75,0,0" VerticalAlignment="Top" Width="80" Foreground="White" FontSize="21.333" FontWeight="Bold"/>
+        <TextBlock  x:Name="textBlock" HorizontalAlignment="Left" Margin="10,256,0,0" TextWrapping="Wrap" VerticalAlignment="Top">
+                <Hyperlink NavigateUri="http://quickcodeforge.com/signup" RequestNavigate="Hyperlink_RequestNavigate">
+                    Don't have an account? Sign up here!
+                </Hyperlink>
+        </TextBlock>
+
+        <xctk:BusyIndicator x:Name="logInBusyIndicator" IsBusy="False" BusyContent="Connecting..." >
+
+        </xctk:BusyIndicator>
+    </Grid>
+    
+</Controls:MetroWindow>

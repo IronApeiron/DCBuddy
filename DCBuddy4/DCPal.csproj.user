@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>D:\My Work\DCPal - Publish\|D:\My Work\DCBuddy - Publish\|D:\Dropbox - ganesh_8\Dropbox\Public\|D:\Dropbox 2\Dropbox\Test\|C:\Users\Ganesh\Desktop\</PublishUrlHistory>
+    <InstallUrlHistory>https://quickcodeforge.blob.core.windows.net/downloads/|https://quickcodeforge.blob.core.windows.net/|https://quickcodeforge.blob.core.windows.net/dcpal/|https://quickcodeforge.blob.core.windows.net/dcbuddy/|https://www.dropbox.com/sh/xq4cmff3mv13lsy/AACAyd4O_s7B22Rpyk9EDCpha/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

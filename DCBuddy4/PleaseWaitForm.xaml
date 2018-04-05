@@ -1,0 +1,17 @@
+﻿<Window x:Class="DCPal.PleaseWaitForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DCPal"
+        mc:Ignorable="d"
+        Title="DCPal" Icon="Resources/dcpal_icon.ico" Height="80.966" Width="300">
+    <Grid Background="#FF3F3F46" Margin="0,0,0,-1">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="97*"/>
+            <ColumnDefinition Width="195*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="label" Content="Loading, Please Wait......" HorizontalAlignment="Left" Margin="67,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.682,0.136" Foreground="White" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>

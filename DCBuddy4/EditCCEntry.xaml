@@ -1,0 +1,23 @@
+﻿<Controls:MetroWindow x:Class="DCPal.EditCCEntry"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:local="clr-namespace:DCPal"       
+        mc:Ignorable="d"
+        TitleForeground="White"
+        EnableDWMDropShadow="True"              
+        Title="Update CC Entry" Icon="Resources/dcpal_icon.ico" TitleCaps="False" Height="214.226" Width="464.126" Background="#FF343232" >
+    <Grid HorizontalAlignment="Left" Height="176" Margin="10,10,0,-3" VerticalAlignment="Top" Width="444">
+        <Label x:Name="label" Content="Rate:" HorizontalAlignment="Left" Margin="10,19,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <TextBox x:Name="txtRate" HorizontalAlignment="Left" Height="23" Margin="53,19,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="82" Background="#FF494747" Foreground="White"/>
+        <Label x:Name="label1" Content="Million(s)/CC" HorizontalAlignment="Left" Margin="150,19,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="label_Copy" Content="Description:" HorizontalAlignment="Left" Margin="10,64,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <TextBox x:Name="txtDesc" HorizontalAlignment="Left" Height="25" Margin="88,65,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="336" Background="#FF494747" Foreground="White"/>
+        <Button x:Name="btnUpdateItemEntry" Content="Update Entry" HorizontalAlignment="Left" Margin="172,141,0,0" VerticalAlignment="Top" Width="83" Background="#FF403838" Foreground="#FFFFFCFC" Click="button_Click"/>
+        <TextBox x:Name="txtQuantity" Text="1" HorizontalAlignment="Left" Height="23" Margin="322,19,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="82" Background="#FF494747" Foreground="White"/>
+        <Label x:Name="label_Copy1" Content="Quantity:" HorizontalAlignment="Left" Margin="259,19,0,0" VerticalAlignment="Top" Foreground="White"/>
+    </Grid>
+</Controls:MetroWindow>
