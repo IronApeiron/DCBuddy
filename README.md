@@ -17,7 +17,7 @@ A toolkit for Drift City (http://driftcity.gamescampus.com).
 
 ### Docking Parts Calculator
 Credits to -Byakushiki- for the docking data.
-![Image 2](https://imgur.com/a/Iunow)
+![Image 2](https://i.imgur.com/IJVf4r0.png)
 
 ### News Feed
 ![Image 3](https://i.imgur.com/7RTwYcQ.png)
