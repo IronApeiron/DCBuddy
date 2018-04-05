@@ -13,13 +13,13 @@ A toolkit for Drift City (http://driftcity.gamescampus.com).
 
 # Development Screenshots
 ### Login Dialog
-![Image 0](https://www.dropbox.com/s/0ce16y6604hok0l/image0.PNG?dl=0)
+![Image 0](https://photos-4.dropbox.com/t/2/AACjgLlqsu12r9sRxIHDENgVrl9cZLkmrKHhnZaea8lUpQ/12/215175083/png/32x32/1/_/1/2/image0.PNG/EOfHiKIBGJGgDyACKAI/rjLLXX0gpLPGFs7K54ezj4XcfPAo3N66o3FGiRdi0L4?preserve_transparency=1&size=1600x1200&size_mode=3)
 
 ### Docking Parts Calculator
-![Image 2](https://www.dropbox.com/s/o3dv5qer7d5qsvy/image2.PNG?dl=0)
+![Image 2](https://photos-6.dropbox.com/t/2/AACzF-I8sZYTidxamaQSpuOykAtaiLjmoJmF79WJyxEZew/12/215175083/png/32x32/1/_/1/2/image2.PNG/EOfHiKIBGJGgDyACKAI/igcoqJ9RxmIVW529moBT5fd0zxEhLv1rKKxEGXO7p6A?preserve_transparency=1&size=1600x1200&size_mode=3)
 
 ### News Feed
-![Image 3](https://www.dropbox.com/s/e25eevxhtan09y0/d1_c.PNG?dl=0)
+![Image 3](https://photos-5.dropbox.com/t/2/AABSthpyq8DlngfgiGjS6Kff6AOTshXgGlDAryg1XvJcsw/12/215175083/png/32x32/1/_/1/2/d1_c.PNG/EOfHiKIBGJGgDyACKAI/FEpmdnRqR85SKLN4Gtkkjjkc02qLxm5VP3DAjmEEBUo?preserve_transparency=1&size=1600x1200&size_mode=3)
 
 
 #### Please note that the online capabilities are no longer functional, since I made the decision to end all services with the announcement of Drift City's closure :(
